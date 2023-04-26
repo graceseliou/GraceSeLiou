@@ -4,7 +4,7 @@
 
 * I’m looking for tips on how to curate an appealing github page for recruiters and employers
   * Reach out to me on LinkedIn
-* I'm looking to collaborate with other beginners on VSCode projects.
+* I'm looking to collaborate with other beginners on VSCode projects
 
 -----
 
