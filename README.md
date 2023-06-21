@@ -1,6 +1,6 @@
 # Hi, I'm Grace ! 🌺🎧🍙 #
 
-🌟 I'm a first-year Enterprise Technology Integration student at Penn State currently learning Java/Javascript, Python for data visualization and SQL. Throughout my time in university, I will also learn  HTML, CSS, application development frameworks for the web, cloud-based infrastructures, web connectivity technologies, XML, and general IT management skills.
+🌟 I'm a first-year Enterprise Technology Integration student at Penn State currently learning Java/Javascript, Python for data visualization and SQL. Throughout my time in university, I will also learn application development frameworks for the web, cloud-based infrastructures, web connectivity technologies, XML, and general IT management skills.
 
 * I’m looking for tips on how to curate an appealing github page for recruiters and employers
   * Reach out to me on LinkedIn
