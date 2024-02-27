@@ -1,6 +1,6 @@
 # Hi, I'm Grace ! 🌺🎧🍙 #
 
-🌟 I'm a second-year Enterprise Technology Integration student at Penn State currently learning Java/Javascript, Python for data visualization and SQL. Throughout my time in university, I will also learn application development frameworks for the web, cloud-based infrastructures, web connectivity technologies, XML, and general IT management skills.
+🌟 I'm a second-year Enterprise Technology Integration student at Penn State currently learning Java, Python for data visualization, HTML/CSS/JS, and SQL. Throughout my time in university, I will also learn application development frameworks for the web, cloud-based infrastructures, web connectivity technologies, XML, and general IT management skills.
 
 * I’m looking for tips on how to curate an appealing github page for recruiters and employers
   * Reach out to me on LinkedIn
@@ -9,8 +9,6 @@
 -----
 
 🎡 My interests outside of the business technology industry include music, art, and seeing the implementation of creativity and diverse perspectivese around me. 
-
-* Ask me about my spotify playlist names!
 
 <!--
 **graceseliou/GraceSeLiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
