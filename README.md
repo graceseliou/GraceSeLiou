@@ -1,10 +1,6 @@
 # Hi, I'm Grace ! 🌺🎧🍙 #
 
-🌟 I'm a second-year Enterprise Technology Integration student at Penn State currently learning Java, Python for data visualization, HTML/CSS/JS, and SQL. Throughout my time in university, I will also learn application development frameworks for the web, cloud-based infrastructures, web connectivity technologies, XML, and general IT management skills.
-
-* I’m looking for tips on how to curate an appealing github page for recruiters and employers
-  * Reach out to me on LinkedIn
-* I'm looking to collaborate with other beginners on VSCode projects
+🌟 I'm a third-year student at Penn State majoring in Enterprise Technology Integration with an application focus in UX Design and minoring in Music Technology. My GitHub hosts my previous work, including personal projects and school assignments.
 
 -----
 
