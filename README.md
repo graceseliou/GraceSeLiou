@@ -1,6 +1,6 @@
 # Hi, I'm Grace ! 🌺🎧🍙 #
 
-🌟 I'm a third-year student at Penn State majoring in Enterprise Technology Integration with an application focus in UX Design and minoring in Music Technology. My GitHub hosts my previous work, including personal projects and school assignments.
+🌟 I'm a fourth-year student at Penn State majoring in Enterprise Technology Integration with an application focus in UX Design and minoring in Music Technology. My GitHub hosts my previous work, including personal projects and school assignments.
 
 -----
 
